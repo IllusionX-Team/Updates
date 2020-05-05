@@ -1,0 +1,13 @@
+{
+   "Kernel": {
+      "Name": "IllusionX kernel",
+      "Version": "V1.0",
+      "Link": "https",
+      "changelog_url": "www.blabla",
+      "Date": "2020-05-10",
+      "Sha1": "Super long text",
+      "Support": {
+         "Link": "Insert herw"
+      }
+   }
+}
