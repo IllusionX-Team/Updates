@@ -1,11 +1,6 @@
 Changelog:
-Version: 1.0
-1. Upstreamed to v4.9.220
-2. Enabled lz4 compression algorithm
-3. Added Klapse
-4. Added BFQ I/O Scheduler
-5. Added Westwood TCP congestion
-6. Added wireguard
-8. Added fsync switch
-7. Support for userspace LMKD
-9. Added F2FS support
+Version: 2.0
+1. Add blu_schedutil
+2. Support for NTFS partition type for external media
+3. Add vibration control
+4. Add sound control
