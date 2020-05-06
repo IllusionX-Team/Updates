@@ -3,7 +3,7 @@
   "kernel": {
     "name": "IllusionX",
     "version": "v2",
-    "link": "https://downloads.sourceforge.net/project/illusion-kernel/IllusionX.zip?r=&ts=1588743432&use_mirror=liquidtelecom",
+    "link": "https://downloads.sourceforge.net/project/illusion-kernel/IllusionX-v2.zip?r=&ts=1588776224&use_mirror=master",
     "changelog_url": "https://raw.githubusercontent.com/IllusionX-Team/Updates/master/RMX1851_changelog.txt",
     "date": "2020-05-06",
     "sha1": "bd8ed7008787101b0d8ef67000a419e6a7fd6255"
