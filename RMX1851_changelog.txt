@@ -1,6 +1,8 @@
 Changelog:
-Version: 2.0
-1. Add blu_schedutil
-2. Support for NTFS partition type for external media
-3. Add vibration control
-4. Add sound control
+Version: 3.0
+* Kernel upstreamed to 4.9.223
+* Added Maple scheduler
+* Tweaked Maple scheduler
+* Disabled CRC checks for performance improvement
+* Added a switch to toggle CRC checks on or off
+* Kernel compiled with freshly compiled GCC 10.1.0
