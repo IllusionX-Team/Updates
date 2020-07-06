@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "IllusionX",
-    "version": "v3",
+    "version": "v4",
     "link": "https://downloads.sourceforge.net/project/illusion-kernel/IllusionX-v3.zip?r=&ts=1589718901&use_mirror=liquidtelecom",
     "changelog_url": "https://raw.githubusercontent.com/IllusionX-Team/Updates/master/RMX1851_changelog.txt",
-    "date": "2020-17-06",
-    "sha1": "793a71bfa40239e7d00ff8f3d7ab2a0dc786b848"
+    "date": "2020-07-06",
+    "sha1": "32649570043580baa7621cadb6b4501e71e2b2d2"
   },
   "support": {
     "link": "https://t.me/IllusionXR3Pro"
