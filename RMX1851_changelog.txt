@@ -1,12 +1,8 @@
 Changelog:
-Version: 4.0
-* Switched to a new and cleaner source
-* Kernel upstreamed to 4.9.228
-* F2FS supported
-* O3 optimizations
-* Polly optimizations
-* Nuked sched_boost
-* Added a switch to toggle fsync on or off
-* Kernel compiled with proton clang
-* Many under the hood changes and improvements
-* Much more but I am lazy to write all that
+Version: 4.0.1
+* Kernel upstreamed to 4.9.230
+* Fixed "There is an internal problem in your device. Please contact your manufacturer" message after reboot.
+* Polly and LTO optimisations.
+*Introduced Oneplus 3 fingerprintd thaw hack(fingerprintd recovery from suspend should be quick).
+* Removed Hispeed stuff added by CAF in schedutil.
+* Kernel compiled with proton-clang
