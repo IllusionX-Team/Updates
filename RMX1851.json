@@ -2,7 +2,7 @@
 {
   "kernel": {
     "name": "IllusionX",
-    "version": "v4.0.1",
+    "version": "v5",
     "link": "https://github.com/IllusionX-Team/Updates/releases/download/v5/IllusionX-v5.zip",
     "changelog_url": "https://raw.githubusercontent.com/IllusionX-Team/Updates/master/RMX1851_changelog.txt",
     "date": "2020-07-23",
