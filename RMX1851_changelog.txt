@@ -1,8 +1,15 @@
 Changelog:
-Version: 4.0.1
-* Kernel upstreamed to 4.9.230
-* Fixed "There is an internal problem in your device. Please contact your manufacturer" message after reboot.
-* Polly and LTO optimisations.
-*Introduced Oneplus 3 fingerprintd thaw hack(fingerprintd recovery from suspend should be quick).
-* Removed Hispeed stuff added by CAF in schedutil.
-* Kernel compiled with proton-clang
+Version: 5
+* CRC checks disabled by default and added a toggle for it.
+* Revert power: Introduce Oneplus 3 fingerprintd thaw hack
+* Nuked debugging in qcacld-3.0
+* Turned off debugging in kgsl
+* Turned off some debug flags 
+* Added vibration control
+* Added sound control
+* Added maple I/O scheduler(default)
+* BPF JIT patches
+* Optimized spinning loop
+* Marked some kthreads and IRQ's as performance critical
+* Enabled TCP westwood(default) and tweaked it a bit
+* Enabled NAP power saving state for GPU
