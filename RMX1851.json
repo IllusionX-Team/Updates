@@ -3,10 +3,10 @@
   "kernel": {
     "name": "IllusionX",
     "version": "v4.0.1",
-    "link": "https://sourceforge.net/projects/realme3pro/files/illusionx-v4.0.1.zip/download#",
+    "link": "https://github.com/IllusionX-Team/Updates/releases/download/v5/IllusionX-v5.zip",
     "changelog_url": "https://raw.githubusercontent.com/IllusionX-Team/Updates/master/RMX1851_changelog.txt",
-    "date": "2020-07-10",
-    "sha1": "c46028726c062b326ce778e27b18ac06b1ed1e3c"
+    "date": "2020-07-23",
+    "sha1": "beff80ef3d9469fbba1c6177d3006920625fc330"
   },
   "support": {
     "link": "https://t.me/IllusionXR3Pro"
