@@ -1,15 +1,9 @@
 Changelog:
-Version: 5
-* CRC checks disabled by default and added a toggle for it.
-* Revert power: Introduce Oneplus 3 fingerprintd thaw hack
-* Nuked debugging in qcacld-3.0
-* Turned off debugging in kgsl
-* Turned off some debug flags 
-* Added vibration control
-* Added sound control
-* Added maple I/O scheduler(default)
-* BPF JIT patches
-* Optimized spinning loop
-* Marked some kthreads and IRQ's as performance critical
-* Enabled TCP westwood(default) and tweaked it a bit
-* Enabled NAP power saving state for GPU
+Version: 6
+* Kernel upstreamed to 4.9.233
+* Merged latest CAF tag (LA.UM.8.8.r1-08000-SDM710.0)
+* Switched from WALT to PELT (16ms)
+* Added cpuset assist
+* Added schedtune assist
+* Use Google's schedutil rate-limits from Pixel 3
+* Added cpu_input_boost, devfreq_boost
