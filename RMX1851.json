@@ -2,11 +2,11 @@
 {
   "kernel": {
     "name": "IllusionX",
-    "version": "v5",
-    "link": "https://github.com/IllusionX-Team/Updates/releases/download/v5/IllusionX-v5.zip",
+    "version": "v6",
+    "link": "https://github.com/IllusionX-Team/Updates/releases/download/v6/IllusionX-v6.zip",
     "changelog_url": "https://raw.githubusercontent.com/IllusionX-Team/Updates/master/RMX1851_changelog.txt",
-    "date": "2020-07-23",
-    "sha1": "beff80ef3d9469fbba1c6177d3006920625fc330"
+    "date": "2020-08-25",
+    "sha1": "ebfcf4e6f87d790efe1db3b170b9af99a8810645"
   },
   "support": {
     "link": "https://t.me/IllusionXR3Pro"
